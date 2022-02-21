@@ -29,3 +29,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
   - Xiang Kang, **Yuying Zhao**, Pingpeng Yuan, Hai Jin
   - [\[Paper\]](https://ieeexplore.ieee.org/document/9437674)
 
+## **Preprints**
+- [under review] Imbalanced Graph Classification via Graph-of-Graph Neural Networks
+  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)
+
