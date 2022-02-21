@@ -14,7 +14,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
-- 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#)
+- 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
 - 07/2021: Awarded free conference registration by [ICML 2021](https://icml.cc/).
 - 05/2021: Awarded the title of "Outstanding Graduate" of Huazhong University of Science and Technology.
 - 05/2021: Accepted by the [ICWSM-21 Scholarship Program](https://www.icwsm.org/2021/index.html).
