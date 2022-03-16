@@ -15,7 +15,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 
 ## **News**
 - 03/2022: Previous work on [Influence Maximization](https://www.springer.com/journal/41019) has been promoted by [CCF database committe](https://mp.weixin.qq.com/s/avdvZzx3nZM01dDIurLwjA).
-- 02/2022 Give a guest lecture on Influence Maximization.
+- 02/2022: Give a guest lecture on Influence Maximization.
 - 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
 - 07/2021: Awarded free conference registration by [ICML 2021](https://icml.cc/).
 - 05/2021: Awarded the title of "Outstanding Graduate" of Huazhong University of Science and Technology.
