@@ -31,7 +31,10 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
   - Xiang Kang, **Yuying Zhao**, Pingpeng Yuan, Hai Jin
   - [\[Paper\]](https://ieeexplore.ieee.org/document/9437674)
 
-## **Preprints**
+## **Preprints and Submissions**
 - [under review] Inferring EHR Utilization Workflows through Audit Logs
 - [under review] Imbalanced Graph Classification via Graph-of-Graph Neural Networks
   - [\[Paper\]](https://arxiv.org/abs/2112.00238#)
+
+## **Symposiums and Workshops**
+- **Yuying Zhao**. Improving Fairness via Fair Explanation. International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster, 2022.
