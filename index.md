@@ -14,9 +14,9 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
-- 05/2022: Our paper "Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage" is accepted by KDD’22.
+- 05/2022: Our paper "Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage" is accepted by [KDD’22](https://kdd.org/kdd2022/).
 - 04/2022: Poster presentation at SDM’22 Doctoral Forum.
-- 04/2022: Awarded the SDM’22 travel award.
+- 04/2022: Awarded the [SDM’22](https://www.siam.org/conferences/cm/conference/sdm22) travel award.
 - 03/2022: Previous work on [Influence Maximization](https://www.springer.com/journal/41019) has been promoted by [CCF database committe](https://mp.weixin.qq.com/s/avdvZzx3nZM01dDIurLwjA).
 - 02/2022: Give a guest lecture on Information Diffusion and Influence Maximization.
 - 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
