@@ -14,6 +14,10 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 08/2022: Our paper "Imbalanced Graph Classification via Graph-of-Graph Neural Networks" is accepted by [CIKM'22](https://www.cikm2022.org/).
+- 07/2022: Our paper ["Collaboration-Aware Graph Neural Networks for Recommendation Systems"](https://arxiv.org/abs/2207.06221) is available now.
+- 07/2022: Our paper "Inferring EHR Utilization Workflows through Audit Logs" is accpeted by [AMIA'22](https://amia.org/education-events/amia-2022-annual-symposium/calls-participation).
+- 06/2022: Awarded free registration for [KDD'22](https://kdd.org/kdd2022/).
 - 05/2022: Our paper "Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage" is accepted by [KDD’22](https://kdd.org/kdd2022/).
 - 04/2022: Poster presentation at SDM’22 Doctoral Forum.
 - 04/2022: Awarded the [SDM’22](https://www.siam.org/conferences/cm/conference/sdm22) travel award.
@@ -27,6 +31,12 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - 03/2021: Awarded an IBM Fellowship.
 
 ## **Publications**
+- [CIKM]Imbalanced Graph Classification via Graph-of-Graph Neural Networks
+  - Yu Wang, **Yuying Zhao**, Neil Shah, Tyler Derr
+  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)
+- [KDD] Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
+  - Yu Wang, **Yuying Zhao**, Yushun Dong, Huiyuan Chen, Jundong Li, Tyler Derr
+  - [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)
 - [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
   - [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
@@ -35,9 +45,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
   - [\[Paper\]](https://ieeexplore.ieee.org/document/9437674)
 
 ## **Preprints and Submissions**
-- [under review] Inferring EHR Utilization Workflows through Audit Logs
-- [under review] Imbalanced Graph Classification via Graph-of-Graph Neural Networks
-  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)
+- [Preprints] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems - [\[Paper\]](https://arxiv.org/abs/2207.06221).
 
 ## **Symposiums and Workshops**
 - **Yuying Zhao**. Improving Fairness via Fair Explanation. International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster, 2022.
