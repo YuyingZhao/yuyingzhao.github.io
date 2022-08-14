@@ -31,12 +31,12 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - 03/2021: Awarded an IBM Fellowship.
 
 ## **Publications**
-- [CIKM]Imbalanced Graph Classification via Graph-of-Graph Neural Networks
+- [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks
   - Yu Wang, **Yuying Zhao**, Neil Shah, Tyler Derr
-  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)
+  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
 - [KDD] Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
   - Yu Wang, **Yuying Zhao**, Yushun Dong, Huiyuan Chen, Jundong Li, Tyler Derr
-  - [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)
+  - [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)[\[Code\]](https://github.com/YuWVandy/FairVGNN)
 - [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
   - [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
