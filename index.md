@@ -37,6 +37,8 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - [KDD] Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
   - Yu Wang, **Yuying Zhao**, Yushun Dong, Huiyuan Chen, Jundong Li, Tyler Derr
   - [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)[\[Code\]](https://github.com/YuWVandy/FairVGNN)
+- [AMIA] Inferring EHR Utilization Workflows through Audit Logs
+  - Xinmeng Zhang, **Yuying Zhao** (co-first author), Chao Yan, Tyler Derr, You Chen
 - [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
   - [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
