@@ -38,6 +38,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
   - Yu Wang, **Yuying Zhao**, Yushun Dong, Huiyuan Chen, Jundong Li, Tyler Derr
 - [AMIA] Inferring EHR Utilization Workflows through Audit Logs
   - **Yuying Zhao**\*, Xinmeng Zhang\*, Chao Yan, Tyler Derr, You Chen
+
 ### Before 2022
 - [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
