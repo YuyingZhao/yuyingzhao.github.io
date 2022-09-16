@@ -31,20 +31,20 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - 03/2021: Awarded an IBM Fellowship.
 
 ## **Publications**
-- [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks
+### 2022
+- [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
   - Yu Wang, **Yuying Zhao**, Neil Shah, Tyler Derr
-  - [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
-- [KDD] Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
+- [KDD] Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)[\[Code\]](https://github.com/YuWVandy/FairVGNN)
   - Yu Wang, **Yuying Zhao**, Yushun Dong, Huiyuan Chen, Jundong Li, Tyler Derr
-  - [\[Paper\]](https://arxiv.org/pdf/2206.03426.pdf)[\[Code\]](https://github.com/YuWVandy/FairVGNN)
 - [AMIA] Inferring EHR Utilization Workflows through Audit Logs
-  - Xinmeng Zhang, **Yuying Zhao** (co-first author), Chao Yan, Tyler Derr, You Chen
-- [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence
+  - **Yuying Zhao**\*, Xinmeng Zhang\*, Chao Yan, Tyler Derr, You Chen
+### Before 2022
+- [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
-  - [\[Paper\]](https://link.springer.com/article/10.1007/s41019-021-00158-0)
-- [CSCWD] Grace: An Efficient Parallel SPARQL Query System over Large-Scale RDF Data
+- [CSCWD] Grace: An Efficient Parallel SPARQL Query System over Large-Scale RDF Data [\[Paper\]](https://ieeexplore.ieee.org/document/9437674)
   - Xiang Kang, **Yuying Zhao**, Pingpeng Yuan, Hai Jin
-  - [\[Paper\]](https://ieeexplore.ieee.org/document/9437674)
+
+\* denotes co-first author.
 
 ## **Preprints and Submissions**
 - [Preprints] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems - [\[Paper\]](https://arxiv.org/abs/2207.06221).
