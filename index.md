@@ -14,7 +14,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
-- 11/2022: Our paper "Fairness and Explainability: Bridging the Gap" is accepted by [AAAI23](https://aaai.org/Conferences/AAAI-23/).
+- 11/2022: Our paper "Fairness and Explainability: Bridging the Gap" is accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
 - 08/2022: Our paper "Imbalanced Graph Classification via Graph-of-Graph Neural Networks" is accepted by [CIKM'22](https://www.cikm2022.org/).
 - 07/2022: Our paper ["Collaboration-Aware Graph Neural Networks for Recommendation Systems"](https://arxiv.org/abs/2207.06221) is available now.
 - 07/2022: Our paper "Inferring EHR Utilization Workflows through Audit Logs" is accpeted by [AMIA'22](https://amia.org/education-events/amia-2022-annual-symposium/calls-participation).
