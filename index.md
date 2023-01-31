@@ -16,6 +16,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 ## **News**
 - 01/2023: Our paper ["Collaboration-Aware Graph Convolutional Network for Recommender Systems"](https://arxiv.org/abs/2207.06221) is accepted by [TheWebConf'23](https://www2023.thewebconf.org/).
 - 01/2023: Glad that I passed my preliminary exam.
+- 12/2022: Glad to join Visa as a PhD research intern for Summer'23.
 - 12/2022: Awarded AAAI-23 Student Scholarships and selected as volunteers.
 - 11/2022: Our paper ["Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations"](https://arxiv.org/abs/2212.03840) is accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
 - 08/2022: Our paper "Imbalanced Graph Classification via Graph-of-Graph Neural Networks" is accepted by [CIKM'22](https://www.cikm2022.org/).
