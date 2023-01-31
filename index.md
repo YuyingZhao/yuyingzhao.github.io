@@ -37,9 +37,9 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 
 ## **Publications**
 ### 2023
-- [TheWebConf'23] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems - [\[Paper\]](https://arxiv.org/abs/2207.06221)[\[Code\]](https://github.com/YuWVandy/CAGCN)
+- [TheWebConf'23] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems [\[Paper\]](https://arxiv.org/abs/2207.06221)[\[Code\]](https://github.com/YuWVandy/CAGCN)
   - Yu Wang, **Yuying Zhao**, Yi Zhang, Tyler Derr
-- [AAAI'23] Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations - [\[Paper\]](https://arxiv.org/abs/2212.03840)[\[Code\]](https://github.com/YuyingZhao/FairExplanations-CFA))
+- [AAAI'23] Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations [\[Paper\]](https://arxiv.org/abs/2212.03840)[\[Code\]](https://github.com/YuyingZhao/FairExplanations-CFA))
   - **Yuying Zhao**, Yu Wang, Tyler Derr
 ### 2022
 - [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
