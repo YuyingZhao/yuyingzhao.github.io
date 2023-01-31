@@ -14,7 +14,10 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
-- 11/2022: Our paper "Fairness and Explainability: Bridging the Gap" is accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
+- 01/2023: Our paper ["Collaboration-Aware Graph Convolutional Network for Recommender Systems"](https://arxiv.org/abs/2207.06221) is accepted by [TheWebConf'23](https://www2023.thewebconf.org/).
+- 01/2023: Glad that I passed my preliminary exam.
+- 12/2022: Awarded AAAI-23 Student Scholarships and selected as volunteers.
+- 11/2022: Our paper ["Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations"](https://arxiv.org/abs/2212.03840) is accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
 - 08/2022: Our paper "Imbalanced Graph Classification via Graph-of-Graph Neural Networks" is accepted by [CIKM'22](https://www.cikm2022.org/).
 - 07/2022: Our paper ["Collaboration-Aware Graph Neural Networks for Recommendation Systems"](https://arxiv.org/abs/2207.06221) is available now.
 - 07/2022: Our paper "Inferring EHR Utilization Workflows through Audit Logs" is accpeted by [AMIA'22](https://amia.org/education-events/amia-2022-annual-symposium/calls-participation).
@@ -24,14 +27,20 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - 04/2022: Awarded the [SDM’22](https://www.siam.org/conferences/cm/conference/sdm22) travel award.
 - 03/2022: Previous work on [Influence Maximization](https://link.springer.com/article/10.1007/s41019-021-00158-0) has been promoted by [CCF database committe](https://mp.weixin.qq.com/s/avdvZzx3nZM01dDIurLwjA).
 - 02/2022: Give a guest lecture on Information Diffusion and Influence Maximization.
-- 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
+<!-- - 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
 - 07/2021: Awarded free conference registration by [ICML 2021](https://icml.cc/).
 - 05/2021: Awarded the title of "Outstanding Graduate" of Huazhong University of Science and Technology.
 - 05/2021: Accepted by the [ICWSM-21 Scholarship Program](https://www.icwsm.org/2021/index.html).
-- 04/2021: Our paper "Maximizing Influence over Streaming Graphs with Query Sequence" is accepted by [DSE journal](https://www.springer.com/journal/41019).  
-- 03/2021: Awarded an IBM Fellowship.
+- 04/2021: Our paper "Maximizing Influence over Streaming Graphs with Query Sequence" is accepted by [DSE journal](https://www.springer.com/journal/41019). 
+- 03/2021: Awarded an IBM Fellowship. -->
 
 ## **Publications**
+### 2023
+- [TheWebConf'23] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems - [\[Paper\]](https://arxiv.org/abs/2207.06221)[\[Code\]](https://github.com/YuWVandy/CAGCN)
+  - Yu Wang, **Yuying Zhao**, Yi Zhang, Tyler Derr
+- [AAAI'23] Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations - [\[Paper\]]([https://arxiv.org/abs/2207.06221](https://arxiv.org/abs/2212.03840))[\[Code\]]([https://github.com/YuWVandy/CAGCN](https://github.com/YuyingZhao/FairExplanations-CFA))
+  - **Yuying Zhao**, Yu Wang, Tyler Derr
+  - 
 ### 2022
 - [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
   - Yu Wang, **Yuying Zhao**, Neil Shah, Tyler Derr
@@ -49,7 +58,6 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 \* denotes co-first author.
 
 ## **Preprints and Submissions**
-- [Preprints] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems - [\[Paper\]](https://arxiv.org/abs/2207.06221).
 
 ## **Symposiums and Workshops**
 - **Yuying Zhao**. Improving Fairness via Fair Explanation. International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster, 2022.
