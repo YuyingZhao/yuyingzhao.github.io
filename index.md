@@ -28,7 +28,8 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 - 04/2022: Awarded the [SDM’22](https://www.siam.org/conferences/cm/conference/sdm22) travel award.
 - 03/2022: Previous work on [Influence Maximization](https://link.springer.com/article/10.1007/s41019-021-00158-0) has been promoted by [CCF database committe](https://mp.weixin.qq.com/s/avdvZzx3nZM01dDIurLwjA).
 - 02/2022: Give a guest lecture on Information Diffusion and Influence Maximization.
-<!-- - 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
+
+<!-- 12/2021: Preprint ["Imbalanced Graph Classification via Graph-of-Graph Neural Networks"](https://arxiv.org/abs/2112.00238#).
 - 07/2021: Awarded free conference registration by [ICML 2021](https://icml.cc/).
 - 05/2021: Awarded the title of "Outstanding Graduate" of Huazhong University of Science and Technology.
 - 05/2021: Accepted by the [ICWSM-21 Scholarship Program](https://www.icwsm.org/2021/index.html).
@@ -41,6 +42,7 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
   - Yu Wang, **Yuying Zhao**, Yi Zhang, Tyler Derr
 - [AAAI'23] Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations [\[Paper\]](https://arxiv.org/abs/2212.03840)[\[Code\]](https://github.com/YuyingZhao/FairExplanations-CFA))
   - **Yuying Zhao**, Yu Wang, Tyler Derr
+
 ### 2022
 - [CIKM] Imbalanced Graph Classification via Graph-of-Graph Neural Networks [\[Paper\]](https://arxiv.org/abs/2112.00238#)[\[Code\]](https://github.com/YuWVandy/G2GNN)
   - Yu Wang, **Yuying Zhao**, Neil Shah, Tyler Derr
