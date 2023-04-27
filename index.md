@@ -14,6 +14,9 @@ My research interests lie in the interface of Machine Learning and Graph Mining 
 <!-- My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 04/2023: Our paper "ADEPT: Autoencoder with Differentially Expressed Genes and Imputation For A Robust Spatial Transcriptomics Clustering" is accepted by Journal [iScience](https://www.cell.com/iscience/home).
+- 03/2023: Selected to participate in the [SDM’23](https://www.siam.org/conferences/cm/conference/sdm23) Doctoral Forum and to receive the student travel award.
+- 03/2023: Our paper "ADEPT: Autoencoder with Differentially Expressed Genes and Imputation For A Robust Spatial Transcriptomics Clustering" is accepted by [RECOMB-SEQ 2023](https://recomb-seq.github.io/).
 - 01/2023: Our paper ["Collaboration-Aware Graph Convolutional Network for Recommender Systems"](https://arxiv.org/abs/2207.06221) is accepted by [TheWebConf'23](https://www2023.thewebconf.org/).
 - 01/2023: Glad that I passed my preliminary exam.
 - 12/2022: Glad to join Visa as a PhD research intern for Summer'23.
