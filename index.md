@@ -21,6 +21,7 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 - 06/2023: Received Student Travel Award for the SIGKDD’23 to be held at Long Beach.
 - 06/2023: Our paper ["Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio"](http://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf) has been accepted by Workshop on Mining and Learning with Graphs (MLG) at [KDD'23](https://kdd.org/kdd2023/).
 - 06/2023: Our paper "The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links" has been accepted by Undergraduate Consortium at [KDD'23](https://kdd.org/kdd2023/).
+- 05/2023: Received **C.F. Chen Best Paper Runner-Up Award** in Computer Science from Vanderbilt University.
 - 04/2023: Our paper "ADEPT: Autoencoder with Differentially Expressed Genes and Imputation For A Robust Spatial Transcriptomics Clustering" is accepted by Journal [iScience](https://www.cell.com/iscience/home).
 - 03/2023: Selected to participate in the [SDM’23](https://www.siam.org/conferences/cm/conference/sdm23) Doctoral Forum and to receive the student travel award.
 - 03/2023: Our paper "ADEPT: Autoencoder with Differentially Expressed Genes and Imputation For A Robust Spatial Transcriptomics Clustering" is accepted by [RECOMB-SEQ 2023](https://recomb-seq.github.io/).
