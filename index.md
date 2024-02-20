@@ -51,6 +51,13 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 - 03/2021: Awarded an IBM Fellowship. -->
 
 ## **Publications**
+### 2024
+- [TheWebConf'24] Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness
+  - **Yuying Zhao**, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr
+ 
+- [AAAI'24] Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation
+  - **Yuying Zhao**, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, Tyler Derr
+
 ### 2023
 - [TheWebConf'23] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems [\[Paper\]](https://arxiv.org/abs/2207.06221)[\[Code\]](https://github.com/YuWVandy/CAGCN)
   - Yu Wang, **Yuying Zhao**, Yi Zhang, Tyler Derr
