@@ -16,6 +16,9 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 01/2024: Our paper "Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness" is accepted by WWW'24.
+- 12/2023: Awarded AAAI-24 Student Scholarships and selected as volunteers.
+- 12/2023: Our paper "Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation" is accepted by AAAI'24.
 - 07/2023: The article ["Progress and Promise: The Shifting Landscape of Gender in STEM"](https://kdd.org/kdd2023/blog-changes-women-in-stem/) is available on KDD'23 blog.
 - 07/2023: Our paper ["Fairness and Diversity in Recommender Systems: A Survey"](https://arxiv.org/abs/2307.04644) is available.
 - 06/2023: Received Student Travel Award for the SIGKDD’23 to be held at Long Beach.
