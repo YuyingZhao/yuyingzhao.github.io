@@ -17,6 +17,7 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 
 ## **News**
 - 01/2024: Our paper "Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness" is accepted by WWW'24.
+- 01/2024: Our paper ["A Topological Perspective on Demystifying GNN-Based Link Prediction Performance"](https://arxiv.org/abs/2310.04612) is accepted by ICLR'24.
 - 12/2023: Awarded AAAI-24 Student Scholarships and selected as volunteers.
 - 12/2023: Our paper ["Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation"](https://arxiv.org/abs/2402.12541) is accepted by AAAI'24.
 - 07/2023: The article ["Progress and Promise: The Shifting Landscape of Gender in STEM"](https://kdd.org/kdd2023/blog-changes-women-in-stem/) is available on KDD'23 blog.
@@ -57,6 +58,9 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
  
 - [AAAI'24] Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation
   - **Yuying Zhao**, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, Tyler Derr
+
+- [ICLR'24] A Topological Perspective on Demystifying GNN-Based Link Prediction Performance
+  - Yu Wang, Tong Zhao, **Yuying Zhao**, Yunchao Liu, Xueqi Cheng, Neil Shah, Tyler Derr
 
 ### 2023
 - [TheWebConf'23] Collaboration-Aware Graph Convolutional Networks for Recommendation Systems [\[Paper\]](https://arxiv.org/abs/2207.06221)[\[Code\]](https://github.com/YuWVandy/CAGCN)
