@@ -16,6 +16,7 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 02/2024: Give a guest lecture on Fairness in Recommendation.
 - 01/2024: Our paper ["Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness"](https://arxiv.org/abs/2402.13495) is accepted by WWW'24.
 - 01/2024: Our paper ["A Topological Perspective on Demystifying GNN-Based Link Prediction Performance"](https://arxiv.org/abs/2310.04612) is accepted by ICLR'24.
 - 12/2023: Awarded AAAI-24 Student Scholarships and selected as volunteers.
