@@ -16,7 +16,7 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
-- 01/2024: Our paper "Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness" is accepted by WWW'24.
+- 01/2024: Our paper ["Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness"](https://arxiv.org/abs/2402.13495) is accepted by WWW'24.
 - 01/2024: Our paper ["A Topological Perspective on Demystifying GNN-Based Link Prediction Performance"](https://arxiv.org/abs/2310.04612) is accepted by ICLR'24.
 - 12/2023: Awarded AAAI-24 Student Scholarships and selected as volunteers.
 - 12/2023: Our paper ["Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation"](https://arxiv.org/abs/2402.12541) is accepted by AAAI'24.
@@ -53,13 +53,13 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 
 ## **Publications**
 ### 2024
-- [TheWebConf'24] Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness
+- [TheWebConf'24] Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness [\[Paper\]](https://arxiv.org/abs/2402.13495)[\[Code\]](https://github.com/YuyingZhao/User-Interest-Diversity-Fairness)
   - **Yuying Zhao**, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr
  
-- [AAAI'24] Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation
+- [AAAI'24] Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation [\[Paper\]](https://arxiv.org/abs/2402.12541)[\[Code\]](https://github.com/YuyingZhao/Fair-Online-Dating-Recommendation)
   - **Yuying Zhao**, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, Tyler Derr
 
-- [ICLR'24] A Topological Perspective on Demystifying GNN-Based Link Prediction Performance
+- [ICLR'24] A Topological Perspective on Demystifying GNN-Based Link Prediction Performance [\[Paper\]](https://arxiv.org/abs/2310.04612)[\[Code\]](https://github.com/YuWVandy/Topo_LP_GNN)
   - Yu Wang, Tong Zhao, **Yuying Zhao**, Yunchao Liu, Xueqi Cheng, Neil Shah, Tyler Derr
 
 ### 2023
