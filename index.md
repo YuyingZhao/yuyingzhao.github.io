@@ -16,6 +16,9 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 08/2024: Our survey ["A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"](https://arxiv.org/abs/2308.16375) has been accepted by TKDE.
+- 07/2024: Our paper ["Augmenting Textual Generation via Topology Aware Retrieval"](https://arxiv.org/abs/2405.17602) is accepted by CIKM.
+- 07/2024: Our paper ["PSNE: Spectral Sparsification Algorithms for Scaling Network Embedding"](https://www.arxiv.org/abs/2408.02705) is accepted by CIKM.
 - 05/2024: Glad to share that I passed the qualifying exam.
 - 04/2024: Our paper ["Fairness and Diversity in Recommender Systems: A Survey"](https://arxiv.org/abs/2307.04644) is accepted by ACM Transactions on Intelligent Systems and Technology (TIST).
 - 02/2024: Glad to join Visa as a PhD research intern for Summer'24.
@@ -57,6 +60,15 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 
 ## **Publications**
 ### 2024
+- [TKDE] A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications [\[Paper\]](https://arxiv.org/abs/2308.16375)
+  - **Yuying Zhao**\*, Yi Zhang\*, Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip Yu, Tyler Derr
+
+- [CIKM'24] Augmenting Textual Generation via Topology Aware Retrieval [\[Paper\]](https://arxiv.org/abs/2405.17602)
+  - Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, **Yuying Zhao**, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr
+
+- [CIKM'24] PSNE: Spectral Sparsification Algorithms for Scaling Network Embedding [\[Paper\]](https://www.arxiv.org/abs/2408.02705)
+  - Longlong Lin, Yunfeng Yu, Zihao Wang, Zeli Wang, **Yuying Zhao**, Zhao Jin, Tao Jia
+
 - [TheWebConf'24] Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness [\[Paper\]](https://arxiv.org/abs/2402.13495)[\[Code\]](https://github.com/YuyingZhao/User-Interest-Diversity-Fairness)
   - **Yuying Zhao**, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr
  
