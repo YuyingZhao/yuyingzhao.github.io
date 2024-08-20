@@ -68,6 +68,9 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 
 - [CIKM'24] PSNE: Spectral Sparsification Algorithms for Scaling Network Embedding [\[Paper\]](https://www.arxiv.org/abs/2408.02705)
   - Longlong Lin, Yunfeng Yu, Zihao Wang, Zeli Wang, **Yuying Zhao**, Zhao Jin, Tao Jia
+ 
+- [TIST] Fairness and Diversity in Recommender Systems: A Survey [\[Paper\]](https://arxiv.org/abs/2307.04644)
+  - **Yuying Zhao**, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, Tyler Derr
 
 - [TheWebConf'24] Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness [\[Paper\]](https://arxiv.org/abs/2402.13495)[\[Code\]](https://github.com/YuyingZhao/User-Interest-Diversity-Fairness)
   - **Yuying Zhao**, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr
@@ -100,11 +103,6 @@ My research interests lie in responsible AI focusing on beyond-utility perspecti
 
 \* denotes co-first author.
 
-## **Preprints and Submissions**
-- Fairness and Diversity in Recommender Systems: A Survey [\[Paper\]](https://arxiv.org/abs/2307.04644)
-  - **Yuying Zhao**, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, Tyler Derr
-- A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications
-  - Yi Zhang, **Yuying Zhao**, Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip Yu, Tyler Derr
 
 ## **Symposiums and Workshops**
 - **Yuying Zhao**. Learning Beyond Utility: Fairness, Explainability, Diversity. International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster, 2023.
