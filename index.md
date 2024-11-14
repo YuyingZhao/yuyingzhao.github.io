@@ -9,7 +9,7 @@ I am a PhD Candidate in Computer Science at [Vanderbilt University](https://www.
 - Email: yuying (dot) zhao (at) vanderbilt (dot) edu
 
 ## **Research Interest**
-My research interests lie in Responsible AI and Trustworthy AI, focusing on learning beyond utility perspectives, including fairness, explainability, and diversity. My work spans various applications, such as recommender systems, graph neural networks, large language models, and traditional machine learning models.
+My research interests lie in Responsible and Trustworthy AI, focusing on learning beyond utility perspectives, including fairness, explainability, and diversity. My work spans various applications, such as recommender systems, graph neural networks, large language models, and traditional machine learning models.
 
 <!-- My research interests lie in responsible AI focusing on beyond-utility perspectives including fairness, explainability, and diversity. Additionally, I am fascinated by the powerful representation ability of graphs. I am broadly interested in analyzing all kinds of graph data, ranging from social media networks, coauthorship relationships, dating networks, biology graphs, EHR graphs in the healthcare domain, and so on.-->
 
