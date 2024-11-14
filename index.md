@@ -9,13 +9,17 @@ I am a PhD Candidate in Computer Science at [Vanderbilt University](https://www.
 - Email: yuying (dot) zhao (at) vanderbilt (dot) edu
 
 ## **Research Interest**
-My research interests lie in responsible AI focusing on beyond-utility perspectives including fairness, explainability, and diversity. Additionally, I am fascinated by the powerful representation ability of graphs. I am broadly interested in analyzing all kinds of graph data, ranging from social media networks, coauthorship relationships, dating networks, biology graphs, EHR graphs in the healthcare domain, and so on.
+My research interests lie in Responsible AI and Trustworthy AI, focusing on learning beyond utility perspectives, including fairness, explainability, and diversity. My work spans various applications, such as recommender systems, graph neural networks, large language models, and traditional machine learning models.
+
+<!-- My research interests lie in responsible AI focusing on beyond-utility perspectives including fairness, explainability, and diversity. Additionally, I am fascinated by the powerful representation ability of graphs. I am broadly interested in analyzing all kinds of graph data, ranging from social media networks, coauthorship relationships, dating networks, biology graphs, EHR graphs in the healthcare domain, and so on.-->
 
 <!-- My research interests lie in the interface of Machine Learning and Graph Mining with specific focuses on: Fairness-aware Graph Neural Networks, Explainable Graph Neural Networks. I am fascinated by the powerful representation ability of graphs. I am broadly interested in analyzing all kinds of graph data, ranging from social media networks, coauthorship relationships, biology graphs, EHR graphs in the healthcare domain, and so on.-->
 
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 10/2024: Our paper ["Edge Classification on Graphs: New Directions in Topological Imbalance"](https://arxiv.org/abs/2406.11685) has been accepted by WSDM.
+- 09/2024: Our paper "FairNNV: The Neural Network Verification Tool For Certifying Fairness" has been accepted by ICAIF 24.
 - 08/2024: Our survey ["A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"](https://arxiv.org/abs/2308.16375) has been accepted by TKDE.
 - 07/2024: Our paper ["Augmenting Textual Generation via Topology Aware Retrieval"](https://arxiv.org/abs/2405.17602) is accepted by CIKM.
 - 07/2024: Our paper ["PSNE: Spectral Sparsification Algorithms for Scaling Network Embedding"](https://www.arxiv.org/abs/2408.02705) is accepted by CIKM.
