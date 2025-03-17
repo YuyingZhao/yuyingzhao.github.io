@@ -19,6 +19,7 @@ My research interests lie in Responsible and Trustworthy AI, focusing on learnin
 
 ## **News**
 - 02/2025: Our survey ["Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/abs/2502.06872) is now available on Arxiv.
+- 11/2024: Our preprint ["A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions"](https://arxiv.org/abs/2410.19214) is now online!
 - 10/2024: Our paper ["Edge Classification on Graphs: New Directions in Topological Imbalance"](https://arxiv.org/abs/2406.11685) has been accepted by WSDM.
 - 09/2024: Our paper "FairNNV: The Neural Network Verification Tool For Certifying Fairness" has been accepted by ICAIF 24.
 - 08/2024: Our survey ["A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"](https://arxiv.org/abs/2308.16375) has been accepted by TKDE.
