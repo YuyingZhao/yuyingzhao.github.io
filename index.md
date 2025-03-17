@@ -18,6 +18,7 @@ My research interests lie in Responsible and Trustworthy AI, focusing on learnin
 <!-- My current research focus is dynamic graph learning. I have conducted research on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change. -->
 
 ## **News**
+- 02/2025: Our survey ["Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/abs/2502.06872) is now available on Arxiv.
 - 10/2024: Our paper ["Edge Classification on Graphs: New Directions in Topological Imbalance"](https://arxiv.org/abs/2406.11685) has been accepted by WSDM.
 - 09/2024: Our paper "FairNNV: The Neural Network Verification Tool For Certifying Fairness" has been accepted by ICAIF 24.
 - 08/2024: Our survey ["A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"](https://arxiv.org/abs/2308.16375) has been accepted by TKDE.
